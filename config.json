@@ -1,5 +1,6 @@
 {
   "app_name": "scai-demo",
-  "environment": "development",
+  "environment": "staging",
+  "debug": true,
   "version": "1.0.0"
 }
