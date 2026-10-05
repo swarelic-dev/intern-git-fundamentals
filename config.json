@@ -1,5 +1,6 @@
 {
   "app_name": "scai-demo",
-  "environment": "development",
+  "environment": "production",
+  "log_level": "WARNING",
   "version": "1.0.0"
 }
